@@ -16,14 +16,14 @@ Education
 
 Work experience
 ======
-* Personal Trainer at YMCA (July 2026 to Current)
+* Personal Trainer, YMCA (July 2026 to Current)
   * Train clients in a one-on-one or small group setting
   * Develop and facilitate relationships with clients to provide physical training guidance and encouragement
   * Ensure clients understand basic health and training fundamentals
-* Fitness Specialist at Pro Club (November 2024 to Current)
+* Fitness Specialist, Pro Club (November 2024 to Current)
   * Inform members on fitness equipment and machine usage.
   * Provide general supervision and cleaning around the fitness areas.
-* IT Intern at Lavner Education (June 2023 to August 2023)
+* IT Intern, Lavner Education (June 2023 to August 2023)
   * Provide technical assistance with the setup and maintenance of on-site computer hardware, software, inventory, and internet connectivity.
   * Provided troubleshooting and technical support to staff and students.
   * Taught and instructed students on STEAM-related material (Scratch, Java, Interactive Design, etc.).
@@ -45,4 +45,4 @@ Skills
 Volunteer
 ======
 * Student Counselor, Seattle Chinese Alliance Church (October 2021 - March 2026)
-  * 
+  * Worked 
