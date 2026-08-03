@@ -33,7 +33,7 @@ Skills
 * Coding:
   * Java
   * R
-  * Python (Pandas, NumPy)
+  * Python (Pandas, NumPy, SKLearn)
   * SQL 
 * Visualization Platforms:
   * Tableau
@@ -45,4 +45,6 @@ Skills
 Volunteer
 ======
 * Student Counselor, Seattle Chinese Alliance Church (October 2021 - March 2026)
-  * Worked 
+  * Guided and taught youth from grades 6 to 12 in small group settings.
+  * Build mentorship-like relationships to develop youth faith walk.
+  * Communicate and coordinate with parents for youth outtings.
