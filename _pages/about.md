@@ -7,5 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Looking for data analytic positions. Currently, at Boston University for a Master's in Applied Data Analytics and working as a Personal Trainer at the YMCA.
+Open and looking for work in data analytics, data science, data engineering positions.
+
+I graduated from the University of Washington with a BA in Data Visualization. Currently at Boston University for a Master's in Applied Data Analytics, expected to graduate in Spring 2027. Working part-time as a Personal Trainer at the YMCA.
+
+
 
