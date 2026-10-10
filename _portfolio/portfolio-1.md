@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Car Crashes in Seattle"
+excerpt: "The goal of this project is to visualize car crash patterns in Seattle using Shiny and R. 
+There are various variables (lighting, frequency, and location) used to determine how these crashes are visualized."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Link to dashboard: https://douggtan.shinyapps.io/seattle-car-crashes-we-crashed/
